@@ -1,0 +1,44 @@
+# Git
+.git
+.gitignore
+.gitattributes
+
+# IDE
+.idea
+*.iml
+.vscode
+.settings
+.project
+.classpath
+
+# Maven
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+dependency-reduced-pom.xml
+
+# Reports et logs
+reports/
+logs/
+*.log
+
+# Documentation
+README.md
+HELP.md
+*.md
+
+# Système
+.DS_Store
+Thumbs.db
+
+# Scripts
+scripts/
+
+# Fichiers temporaires
+*.tmp
+*.bak
+*.swp
+*~
